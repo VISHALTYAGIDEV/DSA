@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/VISHALTYAGIDEV/DSA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/VISHALTYAGIDEV/DSA/tree/master/0485-max-consecutive-ones) |
 | [1480-running-sum-of-1d-array](https://github.com/VISHALTYAGIDEV/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/VISHALTYAGIDEV/DSA/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,4 +41,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/VISHALTYAGIDEV/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/VISHALTYAGIDEV/DSA/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
