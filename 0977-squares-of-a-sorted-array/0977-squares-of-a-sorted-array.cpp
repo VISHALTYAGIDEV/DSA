@@ -10,7 +10,7 @@
 //      }
 //  };
 
-// optimised solution using two pointer , time comp = , space comp =
+// optimised solution using two pointer , time comp =o(n) , space comp =o(n)
 class Solution {
 public:
     vector<int> sortedSquares(vector<int>& nums) {
