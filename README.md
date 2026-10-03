@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/VISHALTYAGIDEV/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/VISHALTYAGIDEV/DSA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/VISHALTYAGIDEV/DSA/tree/master/0485-max-consecutive-ones) |
+| [0575-distribute-candies](https://github.com/VISHALTYAGIDEV/DSA/tree/master/0575-distribute-candies) |
 | [0977-squares-of-a-sorted-array](https://github.com/VISHALTYAGIDEV/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/VISHALTYAGIDEV/DSA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/VISHALTYAGIDEV/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/VISHALTYAGIDEV/DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/VISHALTYAGIDEV/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/VISHALTYAGIDEV/DSA/tree/master/0268-missing-number) |
+| [0575-distribute-candies](https://github.com/VISHALTYAGIDEV/DSA/tree/master/0575-distribute-candies) |
 ## Sorting
 |  |
 | ------- |
