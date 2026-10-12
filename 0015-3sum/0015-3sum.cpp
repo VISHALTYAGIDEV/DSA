@@ -33,3 +33,6 @@ public:
         return result;
     }
 };
+
+// time complexity O(n²)
+// space complextity O(log n)
