@@ -26,3 +26,6 @@ public:
         return count;
     }
 };
+
+//time complexity = (O(n^2)
+//space complexity = O(log n)
