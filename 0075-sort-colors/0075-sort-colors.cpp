@@ -36,10 +36,6 @@ int par(vector<int>& nums,int low,int high){
     swap(nums[low],nums[j]);
     return j;
 }
-
-
-
-
 void qs(vector<int>& nums,int low,int high){
 if(low<high){
     int pivotindex = par(nums,low ,high);
@@ -47,9 +43,14 @@ if(low<high){
     qs(nums,pivotindex+1,high);
 }
 }
-
-    void sortColors(vector<int>& nums) {
+void sortColors(vector<int>& nums) {
         qs(nums,0,nums.size()-1);
-        
     }
 };
+//time complexity
+// Best Case: \(O(n\log n)\)
+// Average Case: \(O(n\log n)\)
+// Worst Case: \(O(n^2)\)
+//space complexity
+// Average: \(O(\log n)\)
+// Worst: \(O(n)\)
